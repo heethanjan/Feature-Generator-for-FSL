@@ -15,4 +15,4 @@ Before starting, ensure you have installed the necessary dependencies for both t
    Install the required dependencies by running the following:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
