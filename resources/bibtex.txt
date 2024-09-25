@@ -1,0 +1,6 @@
+@article{,
+  title={A Feature Generator for Few-Shot Learning},
+  author={ Heethanjan Kanagalingam and Thenukan Pathmanathan and Navaneethan Ketheeswaran and Mokeeshan Vathanakumar and Mohamed Afham and Ranga Rodrigo},
+  journal={arXiv preprint arXiv:2409.14141},
+  year={2024}
+}
